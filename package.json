@@ -26,7 +26,7 @@
   "homepage": "https://github.com/scf4/lyricist#readme",
   "dependencies": {
     "cheerio": "^0.22.0",
-    "node-fetch": "^1.6.3"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
